@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: message-rabbitmq
+  rabbitmq:
+    host:
+    port:
+    username:
+    password:
+    virtual-host:
